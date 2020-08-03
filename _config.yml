@@ -11,14 +11,15 @@ footer: yes
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
-sass:
-    style: compressed
-    sass_dir: _sass
-
 nav:
  - name: "About"
    link: "/about_me"
  - name: "publications"
    link: "/publications"
  - name: "Servies"
-   link: "servies"
+   link: "/servies"
+
+
+sass:
+    style: compressed
+    sass_dir: _sass

@@ -12,10 +12,14 @@ footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
 nav:
+ - name: "About"	
+   link: "/index"
  - name: "publications"
    link: "/publications"
  - name: "Servies"
    link: "/servies"
+ - name: "Miscellaneous"
+   link: "/miscellaneous"
 
 
 sass:

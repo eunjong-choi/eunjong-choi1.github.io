@@ -1,6 +1,6 @@
 title: Eunjong Choi
 url: "https://eunjong-choi.github.io/"
-baseurl: "/about_me"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"

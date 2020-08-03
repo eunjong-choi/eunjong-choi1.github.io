@@ -12,8 +12,6 @@ footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
 nav:
- - name: "About"
-   link: "/about_me"
  - name: "publications"
    link: "/publications"
  - name: "Servies"

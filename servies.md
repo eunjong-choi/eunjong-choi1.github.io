@@ -27,7 +27,7 @@ layout: default
  - SCAM 2019@Research Track;
  - ICPC 2019@Technical Research Track, 2019@Tool Track, 2018@Tool Track; 
  - SANER 2020@RENE Track, 2020@Early Research Achievements Track, 2019@Early Research Achievements Track; 
- - APSEC 2019, 2018@Research Track, 2018@ERA Track, 2016@Resaerch Track; 
+ - APSEC 2020@ERA Track, 2019, 2018@Research Track, 2018@ERA Track, 2016@Resaerch Track; 
  - ESEC/FSE  2018@Artifacts Track; 
  - MAINT 2018; 
  - ICSME 2017@Tool Demo Track, 2017@Artifacts Track; 
@@ -51,6 +51,6 @@ layout: default
  - 36th International Conference on Software Engineering (ICSE) 2014, Student Volunteer
   
 ### プログラム委員、査読 (Japanese)：
- - 査読: 情報処理学会論文誌 2019
+ - 査読: 情報処理学会論文誌 2019, 電子情報通信学会 和文論文誌 2020
  - プログラム委員: ソフトウェアエンジニアリングシンポジウム (SES) 2020, 2019, 2018, 2017 
 
